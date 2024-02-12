@@ -1,4 +1,4 @@
-package com.melia;
+package com.myTests;
 
 import java.util.Deque;
 import java.util.LinkedList;
